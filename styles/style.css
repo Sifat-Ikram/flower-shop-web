@@ -1,7 +1,7 @@
 .banner{
     
     display: flex;
-    background-color: pink;
+    background-color: #F8DCEA;
     padding: 25px;
     height: 350px;
     justify-content: space-around;
@@ -28,9 +28,8 @@
 
 #feature{
     align-content: center;
-}   
-    
 }
+
 .feature-title{
     text-align: center;
     
@@ -54,6 +53,18 @@
     text-align: center;
     margin-left: 15px;
    box-shadow: 50px;
-    
-    
+}
+#hot-deal{
+    background-color: #F9EFF4;
+    display: inline-block;
+    padding: 0px 130px;
+    display: flex;
+    justify-content: space-around;
+}
+#deal-text{
+    padding-top: 50px;
+    font-size: larger;
+    text-align: center;
+    margin: 0px 130px;
+    text-align: center;
 }
