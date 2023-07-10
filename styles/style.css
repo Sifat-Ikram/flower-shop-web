@@ -21,15 +21,13 @@
     background-color: #E90F57;
 }
 #feature-text{
+    margin-top: 90px;
    text-align: center;
    margin-bottom: 50px;
-
 }
-
 #feature{
     align-content: center;
 }
-
 .title{
     text-align: center;
     
@@ -37,14 +35,12 @@
 .description{
     text-align: center;
     padding: 15px 480px;
-    
-    
     font-size: smaller;
-    color: #B0ACAE;
-    font-weight: 700;
+    color: #968a90;
+    font-weight: 50;
 }
 #feature-flowers{
-    padding: 10px 260px;
+    padding: 10px 270px;
     display: flex;
     
     align-items: center;
@@ -52,9 +48,9 @@
 #feat-fl{
     text-align: center;
     margin-left: 15px;
-   box-shadow: 50px;
 }
 #hot-deal{
+    margin-top: 90px;
     background-color: #F9EFF4;
     display: inline-block;
     padding: 0px 130px;
@@ -67,6 +63,24 @@
     text-align: center;
     margin: 0px 130px;
     text-align: center;
+}
+#social-content{
+    margin-top: 90px;
+    align-items: center;
+    margin-bottom: 90px;
+}
+#social-text{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#social-con-flowers{
+    padding: 10px 150px;
+    display: flex;
+    align-items: center;
+}
+#social-fl{
+    text-align: center;
+    margin-left: 25px;
 }
 #last-banner{
     border-radius: 5px;
@@ -88,4 +102,11 @@
     border-radius: 5px;
     padding: 10px 150px; 
     text-align: left;
+}
+#footer-content{
+    margin-top: 90px;
+    padding: 45px 0px;
+    background-color: black;
+    text-align: center;
+    color: white;
 }
