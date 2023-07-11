@@ -28,6 +28,9 @@ nav a:hover{
     color: white;
     background-color: #CA5B8B;
 }
+
+
+
 .banner{
     display: flex;
     background-color: #F8DCEA;
@@ -49,6 +52,9 @@ nav a:hover{
     color: white;
     background-color: #E90F57;
 }
+
+
+
 #feature-text{
     margin-top: 90px;
    text-align: center;
@@ -69,15 +75,41 @@ nav a:hover{
     font-weight: 50;
 }
 #feature-flowers{
-    padding: 10px 270px;
+    padding: 10px 170px;
     display: flex;
-    
+
     align-items: center;
 }
-#feat-fl{
+#feat-fl-1{
+    background-color: #F9DDE9;
+    padding: 40px;
     text-align: center;
     margin-left: 15px;
+    border-top-right-radius: 150px;
+    border-top-left-radius: 150px;
+    padding-top: 85px;
 }
+#feat-fl-2{
+    background-color: #DCF1F3;
+    padding: 40px;
+    text-align: center;
+    margin-left: 15px;
+    border-top-right-radius: 150px;
+    border-top-left-radius: 150px;
+    padding-top: 85px;
+}
+#feat-fl-3{
+    background-color: #E5F3DC;
+    padding: 40px;
+    text-align: center;
+    margin-left: 15px;
+    border-top-right-radius: 150px;
+    border-top-left-radius: 150px;
+    padding-top: 85px;
+}
+
+
+
 #hot-deal{
     margin-top: 90px;
     background-color: #F9EFF4;
@@ -93,6 +125,9 @@ nav a:hover{
     margin: 0px 130px;
     text-align: center;
 }
+
+
+
 #social-content{
     margin-top: 90px;
     align-items: center;
@@ -112,6 +147,9 @@ nav a:hover{
     text-align: center;
     margin-left: 25px;
 }
+
+
+
 #last-banner{
     border-radius: 5px;
     margin: 0px 170px;
@@ -133,6 +171,10 @@ nav a:hover{
     padding: 10px 150px; 
     text-align: left;
 }
+
+
+
+
 #footer-content{
     margin-top: 90px;
     padding: 45px 0px;
