@@ -26,7 +26,7 @@ nav a:hover{
     border: 0;
     padding: 10px 20px;
     color: white;
-    background-color: #CA5B8B;
+    background-color: #FB9AC1;
 }
 
 
@@ -106,6 +106,18 @@ nav a:hover{
     border-top-right-radius: 150px;
     border-top-left-radius: 150px;
     padding-top: 85px;
+}
+
+
+.mid-banner{
+    background-color: #F0EFEF;
+    display: flex;
+    justify-content: space-around;
+    margin: 90px 170px;
+}
+.mid-banner-pic{
+    margin: 15px 50px;
+    padding: 30px 0px;
 }
 
 
