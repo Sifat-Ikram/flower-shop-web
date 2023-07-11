@@ -1,3 +1,8 @@
+body{
+    margin: 0px 0px;
+}
+
+
 nav{
     background-color: pink;
     display: flex;
@@ -35,12 +40,12 @@ nav a:hover{
     display: flex;
     background-color: #F8DCEA;
     padding: 25px;
-    height: 350px;
+    height: 500px;
     justify-content: space-around;
 }
 .banner-content{
-    margin: 25px ;
-    width: 21%;
+    margin: 15px ;
+    width: 35%;
 }
 .banner-content>p{
     font-size: smaller;
@@ -58,18 +63,16 @@ nav a:hover{
 #feature-text{
     margin-top: 90px;
    text-align: center;
-   margin-bottom: 50px;
+   margin-bottom: 20px;
 }
-#feature{
-    align-content: center;
-}
+
 .title{
     text-align: center;
     
 }
 .description{
     text-align: center;
-    padding: 15px 480px;
+    padding: 5px 480px;
     font-size: smaller;
     color: #968a90;
     font-weight: 50;
@@ -147,10 +150,10 @@ nav a:hover{
 }
 #social-text{
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 #social-con-flowers{
-    padding: 10px 150px;
+    padding: 5px 150px;
     display: flex;
     align-items: center;
 }
